@@ -1,0 +1,1 @@
+cmd_/FortiWatchDog/dpdk-2.0.0/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/kni/built-in.o :=  rm -f /FortiWatchDog/dpdk-2.0.0/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/kni/built-in.o; ar rcsD /FortiWatchDog/dpdk-2.0.0/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/kni/built-in.o
